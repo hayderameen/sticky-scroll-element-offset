@@ -6,3 +6,5 @@ Keep it sticky until a certain offset (another element in flow of DOM) is reache
 The element will then stop being sticky and stay put in certain position.
 
 On scroll up, it becomes sticky again as the limit threshold is crossed.
+
+Current demo here: https://clav-health.de/products/energie-boost
